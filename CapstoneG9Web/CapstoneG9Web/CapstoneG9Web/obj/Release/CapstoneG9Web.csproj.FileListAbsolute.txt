@@ -1,0 +1,7 @@
+D:\UHCL\Capstone\CapstoneG9Web\CapstoneG9Web\CapstoneG9Web\bin\CapstoneG9Web.dll.config
+D:\UHCL\Capstone\CapstoneG9Web\CapstoneG9Web\CapstoneG9Web\bin\CapstoneG9Web.dll
+D:\UHCL\Capstone\CapstoneG9Web\CapstoneG9Web\CapstoneG9Web\bin\CapstoneG9Web.pdb
+D:\UHCL\Capstone\CapstoneG9Web\CapstoneG9Web\CapstoneG9Web\obj\Release\CapstoneG9Web.csprojAssemblyReference.cache
+D:\UHCL\Capstone\CapstoneG9Web\CapstoneG9Web\CapstoneG9Web\obj\Release\CapstoneG9Web.csproj.CoreCompileInputs.cache
+D:\UHCL\Capstone\CapstoneG9Web\CapstoneG9Web\CapstoneG9Web\obj\Release\CapstoneG9Web.dll
+D:\UHCL\Capstone\CapstoneG9Web\CapstoneG9Web\CapstoneG9Web\obj\Release\CapstoneG9Web.pdb

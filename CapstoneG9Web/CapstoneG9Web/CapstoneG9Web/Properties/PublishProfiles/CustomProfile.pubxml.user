@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVMVsCanD30WLTS/h/368rwAAAAACAAAAAAAQZgAAAAEAACAAAADaXqrukkPMfoL/M9CnFXzzBA1SNobLYAc0yiwiPooMQAAAAAAOgAAAAAIAACAAAACa+3cPge+nmmLDnIhpdA/roZwrqD9yidBgWExRKK6CQRAAAABaizQazoCvRyGHgZqKfG0OQAAAANDHZXMyVFL6kElGVsxr3EsEMubHMIBHJf6Vo4/E9QGYfWpTpHKTX8E509SrfQk0TTDw800+OQE+h0/E2X+xM0k=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://dcm.uhcl.edu/caps20g9/pages</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include=".DS_Store">
+      <publishTime>02/04/2020 10:36:54</publishTime>
+    </File>
+    <File Include="bin/CapstoneG9Web.dll">
+      <publishTime>02/06/2020 18:22:57</publishTime>
+    </File>
+    <File Include="bin/CapstoneG9Web.pdb">
+      <publishTime>02/06/2020 18:22:57</publishTime>
+    </File>
+    <File Include="css.css">
+      <publishTime>02/05/2020 17:26:51</publishTime>
+    </File>
+    <File Include="Images/Deepali.png">
+      <publishTime>02/04/2020 10:36:54</publishTime>
+    </File>
+    <File Include="Images/Hari.png">
+      <publishTime>02/04/2020 10:36:54</publishTime>
+    </File>
+    <File Include="Images/Manasa.png">
+      <publishTime>02/04/2020 10:36:54</publishTime>
+    </File>
+    <File Include="Images/Moxa.png">
+      <publishTime>02/04/2020 10:36:54</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>02/05/2020 17:30:17</publishTime>
+    </File>
+    <File Include="meetings.html">
+      <publishTime>02/05/2020 18:01:31</publishTime>
+    </File>
+    <File Include="mentors.html">
+      <publishTime>02/05/2020 18:05:35</publishTime>
+    </File>
+    <File Include="milestones.html">
+      <publishTime>02/04/2020 10:36:54</publishTime>
+    </File>
+    <File Include="team.html">
+      <publishTime>02/05/2020 16:11:22</publishTime>
+    </File>
+    <File Include="videos.html">
+      <publishTime>02/06/2020 18:19:00</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/05/2020 19:24:27</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
